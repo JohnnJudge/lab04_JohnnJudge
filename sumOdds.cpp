@@ -3,7 +3,13 @@
 #include <iostream>
 
 #include "utility.h"
-
+bool isOdd(int);
 int sumOdds(int a[], int size) {
-  return -42; // STUB!  Replace with correct code.
+  int sum = 0;
+  for(int i = 0; i < size; i++){
+	if(isOdd(a[i])){
+		sum += a[i];
+	}
+  }
+  return sum;
 }
