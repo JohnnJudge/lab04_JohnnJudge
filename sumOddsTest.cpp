@@ -35,7 +35,7 @@ int fiveThrees[5]={3,3,3,3,3};
     int mix[10]={-42,12,-9,56,123,-32767,48}; // last three will be zero
     assertEquals(-32653,
                  sumOdds(mix,10),
- "sumOfArray(mix,10)" );
+ "sumOdds(mix,10)" );
 
   
   return 0;
