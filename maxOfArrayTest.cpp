@@ -1,3 +1,6 @@
+//Author: John Judge
+//Date: 11/5/19
+//tests the function maxOfArray
 #include "arrayFuncs.h"
 #include "tddFuncs.h"
 
