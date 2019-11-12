@@ -1,3 +1,6 @@
+//Author: John Judge
+//Date: 11/5/19
+//sums the odd numbers in an array
 #include "arrayFuncs.h"
 #include <cstdlib>
 #include <iostream>
