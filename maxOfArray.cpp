@@ -1,3 +1,6 @@
+//Author: John Judge
+//Date: 11/5/19
+//retrusn the max number in an array
 #include "arrayFuncs.h"
 #include <cstdlib>
 #include <iostream>
