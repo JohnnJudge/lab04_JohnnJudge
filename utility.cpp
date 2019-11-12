@@ -1,3 +1,6 @@
+//Author: John Judge
+//Date: 11/5/19
+//functions to tell if a number is odd, even, or prime
 // utility.cpp
 
 // IN THIS FILE, define any of your OWN functions you may need to 
