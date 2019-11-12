@@ -1,3 +1,6 @@
+//Author: John Judge
+//Date: 11/5/19
+//returns the sum of the even numbers in an array
 #include "arrayFuncs.h"
 
 #include <cstdlib>
